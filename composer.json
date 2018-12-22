@@ -1,0 +1,14 @@
+{
+    "name": "beysong/beysong-theme",
+    "description": "bootstrap 4 theme",
+    "authors": [
+        {
+            "name": "wangsong",
+            "email": "415613212@qq.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": ">=4.0.0",
+        "components/jquery": "1.12.*"
+    }
+}
