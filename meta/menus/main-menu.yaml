@@ -1,0 +1,13 @@
+name: 主菜单
+items:
+    -
+        title: 测试页面
+        nesting: '0'
+        type: static-page
+        code: ''
+        reference: test-page
+        replace: '0'
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
